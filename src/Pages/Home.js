@@ -30,7 +30,7 @@ export default class Home extends Component {
                 <Card.Title>Developers</Card.Title>
                 <Card.Text>
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, voluptatibus?
-                  Ipsam rerum exercitationem porro nihil
+                  Ipsam rerum exercitationem porro nihilkll;
                 </Card.Text>
                 <Button variant='primari'>About team</Button>
               </Card.Body>
